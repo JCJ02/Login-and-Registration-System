@@ -1,0 +1,6 @@
+Instruction
+
+Step 1: In order to run this system, you must create database in MySQL using XAMPP Control Panel, Ex. teknolohiyadb.
+Step 2: After creating database using MySQL using XAMPP Control Panel, import the SQL (teknolohiyadb.sql) file.
+Step 3: Open the file (Login_and_Registration_System) in your IDE Software.
+Step 4: You can now run it!
